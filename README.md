@@ -64,7 +64,8 @@ This project focuses on visualizing profit-related insights for the Sample Super
 
 **1. Tableau Online:**
    
-You can access the live, interactive dashboard on Tableau Online. Click here to view.
+You can access the live, interactive dashboard on Tableau Online. Click [here](https://public.tableau.com/views/assignment-2_17265926209670/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view.
+
 
 **2. Download the Tableau Workbook:**
    
